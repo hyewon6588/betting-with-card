@@ -1,0 +1,80 @@
+C:\Users\이채은\Desktop\betting with card\betting with card\bin\Debug\betting with card.exe.config
+C:\Users\이채은\Desktop\betting with card\betting with card\bin\Debug\betting with card.exe
+C:\Users\이채은\Desktop\betting with card\betting with card\bin\Debug\betting with card.pdb
+C:\Users\이채은\Desktop\betting with card\betting with card\obj\Debug\betting with card.csprojAssemblyReference.cache
+C:\Users\이채은\Desktop\betting with card\betting with card\obj\Debug\betting_with_card.Form1.resources
+C:\Users\이채은\Desktop\betting with card\betting with card\obj\Debug\betting_with_card.Properties.Resources.resources
+C:\Users\이채은\Desktop\betting with card\betting with card\obj\Debug\betting with card.csproj.GenerateResource.cache
+C:\Users\이채은\Desktop\betting with card\betting with card\obj\Debug\betting with card.exe
+C:\Users\이채은\Desktop\betting with card\betting with card\obj\Debug\betting with card.pdb
+C:\Users\이채은\Desktop\betting with card\betting with card\obj\Debug\betting_with_card.Form3.resources
+C:\Users\이채은\Desktop\betting with card\betting with card\obj\Debug\betting_with_card.Form4.resources
+C:\Users\이채은\Desktop\betting with card\betting with card\obj\Debug\betting_with_card.Form5.resources
+C:\Users\이채은\Desktop\betting with card\betting with card\obj\Debug\betting_with_card.Form6.resources
+C:\Users\이채은\Desktop\betting with card\betting with card\obj\Debug\betting_with_card.Form7.resources
+C:\Users\이채은\Desktop\betting with card(1)\betting with card\bin\Debug\betting with card.exe.config
+C:\Users\이채은\Desktop\betting with card(1)\betting with card\bin\Debug\betting with card.exe
+C:\Users\이채은\Desktop\betting with card(1)\betting with card\bin\Debug\betting with card.pdb
+C:\Users\이채은\Desktop\betting with card(1)\betting with card\obj\Debug\betting with card.csprojAssemblyReference.cache
+C:\Users\이채은\Desktop\betting with card(1)\betting with card\obj\Debug\betting_with_card.Form1.resources
+C:\Users\이채은\Desktop\betting with card(1)\betting with card\obj\Debug\betting_with_card.Form2.resources
+C:\Users\이채은\Desktop\betting with card(1)\betting with card\obj\Debug\betting_with_card.Form3.resources
+C:\Users\이채은\Desktop\betting with card(1)\betting with card\obj\Debug\betting_with_card.Form4.resources
+C:\Users\이채은\Desktop\betting with card(1)\betting with card\obj\Debug\betting_with_card.Form5.resources
+C:\Users\이채은\Desktop\betting with card(1)\betting with card\obj\Debug\betting_with_card.Form6.resources
+C:\Users\이채은\Desktop\betting with card(1)\betting with card\obj\Debug\betting_with_card.Form7.resources
+C:\Users\이채은\Desktop\betting with card(1)\betting with card\obj\Debug\betting_with_card.Properties.Resources.resources
+C:\Users\이채은\Desktop\betting with card(1)\betting with card\obj\Debug\betting with card.csproj.GenerateResource.cache
+C:\Users\이채은\Desktop\betting with card(1)\betting with card\obj\Debug\betting with card.exe
+C:\Users\이채은\Desktop\betting with card(1)\betting with card\obj\Debug\betting with card.pdb
+C:\Users\이채은\Desktop\betting with card\betting with card\obj\Debug\betting_with_card.Form2.resources
+C:\Users\이채은\Desktop\betting with card\betting with card\obj\Debug\betting_with_card.Form8.resources
+C:\Users\user\Desktop\Internship\Sample\betting with card\betting with card\bin\Debug\betting with card.exe.config
+C:\Users\user\Desktop\Internship\Sample\betting with card\betting with card\obj\Debug\betting with card.exe
+C:\Users\user\Desktop\Internship\Sample\betting with card\betting with card\obj\Debug\betting with card.pdb
+C:\Users\user\Desktop\Internship\Sample\betting with card\betting with card\bin\Debug\betting with card.exe
+C:\Users\user\Desktop\Internship\Sample\betting with card\betting with card\bin\Debug\betting with card.pdb
+C:\Users\user\Desktop\Internship\Sample\betting with card\betting with card\obj\Debug\betting with card.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Internship\Sample\betting with card\betting with card\obj\Debug\betting_with_card.Form1.resources
+C:\Users\user\Desktop\Internship\Sample\betting with card\betting with card\obj\Debug\betting_with_card.Form2.resources
+C:\Users\user\Desktop\Internship\Sample\betting with card\betting with card\obj\Debug\betting_with_card.Form3.resources
+C:\Users\user\Desktop\Internship\Sample\betting with card\betting with card\obj\Debug\betting_with_card.Form4.resources
+C:\Users\user\Desktop\Internship\Sample\betting with card\betting with card\obj\Debug\betting_with_card.Form5.resources
+C:\Users\user\Desktop\Internship\Sample\betting with card\betting with card\obj\Debug\betting_with_card.Form6.resources
+C:\Users\user\Desktop\Internship\Sample\betting with card\betting with card\obj\Debug\betting_with_card.Form7.resources
+C:\Users\user\Desktop\Internship\Sample\betting with card\betting with card\obj\Debug\betting_with_card.Form8.resources
+C:\Users\user\Desktop\Internship\Sample\betting with card\betting with card\obj\Debug\betting_with_card.Properties.Resources.resources
+C:\Users\user\Desktop\Internship\Sample\betting with card\betting with card\obj\Debug\betting with card.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Internship\Testcodes\optimizing test\betting with card\betting with card\bin\Debug\betting with card.exe.config
+C:\Users\user\Desktop\Internship\Testcodes\optimizing test\betting with card\betting with card\obj\Debug\betting with card.exe
+C:\Users\user\Desktop\Internship\Testcodes\optimizing test\betting with card\betting with card\obj\Debug\betting with card.pdb
+C:\Users\user\Desktop\Internship\Testcodes\betting with card\betting with card\bin\Debug\betting with card.exe.config
+C:\Users\user\Desktop\Internship\Testcodes\betting with card\betting with card\bin\Debug\betting with card.exe
+C:\Users\user\Desktop\Internship\Testcodes\betting with card\betting with card\bin\Debug\betting with card.pdb
+C:\Users\user\Desktop\Internship\Testcodes\betting with card\betting with card\obj\Debug\betting with card.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Internship\Testcodes\betting with card\betting with card\obj\Debug\betting_with_card.Form1.resources
+C:\Users\user\Desktop\Internship\Testcodes\betting with card\betting with card\obj\Debug\betting_with_card.Form3.resources
+C:\Users\user\Desktop\Internship\Testcodes\betting with card\betting with card\obj\Debug\betting_with_card.Form4.resources
+C:\Users\user\Desktop\Internship\Testcodes\betting with card\betting with card\obj\Debug\betting_with_card.Form5.resources
+C:\Users\user\Desktop\Internship\Testcodes\betting with card\betting with card\obj\Debug\betting_with_card.Form6.resources
+C:\Users\user\Desktop\Internship\Testcodes\betting with card\betting with card\obj\Debug\betting_with_card.Form7.resources
+C:\Users\user\Desktop\Internship\Testcodes\betting with card\betting with card\obj\Debug\betting_with_card.Form8.resources
+C:\Users\user\Desktop\Internship\Testcodes\betting with card\betting with card\obj\Debug\betting_with_card.Properties.Resources.resources
+C:\Users\user\Desktop\Internship\Testcodes\betting with card\betting with card\obj\Debug\betting with card.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Internship\Testcodes\betting with card\betting with card\obj\Debug\betting with card.exe
+C:\Users\user\Desktop\Internship\Testcodes\betting with card\betting with card\obj\Debug\betting with card.pdb
+C:\Users\user\Desktop\Internship\Testcodes\Optimize\betting with card\betting with card\bin\Debug\betting with card.exe.config
+C:\Users\user\Desktop\Internship\Testcodes\Optimize\betting with card\betting with card\bin\Debug\betting with card.exe
+C:\Users\user\Desktop\Internship\Testcodes\Optimize\betting with card\betting with card\bin\Debug\betting with card.pdb
+C:\Users\user\Desktop\Internship\Testcodes\Optimize\betting with card\betting with card\obj\Debug\betting with card.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Internship\Testcodes\Optimize\betting with card\betting with card\obj\Debug\betting_with_card.Form1.resources
+C:\Users\user\Desktop\Internship\Testcodes\Optimize\betting with card\betting with card\obj\Debug\betting_with_card.Form3.resources
+C:\Users\user\Desktop\Internship\Testcodes\Optimize\betting with card\betting with card\obj\Debug\betting_with_card.Form4.resources
+C:\Users\user\Desktop\Internship\Testcodes\Optimize\betting with card\betting with card\obj\Debug\betting_with_card.Form5.resources
+C:\Users\user\Desktop\Internship\Testcodes\Optimize\betting with card\betting with card\obj\Debug\betting_with_card.Form6.resources
+C:\Users\user\Desktop\Internship\Testcodes\Optimize\betting with card\betting with card\obj\Debug\betting_with_card.Form7.resources
+C:\Users\user\Desktop\Internship\Testcodes\Optimize\betting with card\betting with card\obj\Debug\betting_with_card.Form8.resources
+C:\Users\user\Desktop\Internship\Testcodes\Optimize\betting with card\betting with card\obj\Debug\betting_with_card.Properties.Resources.resources
+C:\Users\user\Desktop\Internship\Testcodes\Optimize\betting with card\betting with card\obj\Debug\betting with card.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Internship\Testcodes\Optimize\betting with card\betting with card\obj\Debug\betting with card.exe
+C:\Users\user\Desktop\Internship\Testcodes\Optimize\betting with card\betting with card\obj\Debug\betting with card.pdb

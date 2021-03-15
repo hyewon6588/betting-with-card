@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Internship\Testcodes\betting with card\betting with card\bin\Release\betting with card.exe.config
+C:\Users\user\Desktop\Internship\Testcodes\betting with card\betting with card\bin\Release\betting with card.exe
+C:\Users\user\Desktop\Internship\Testcodes\betting with card\betting with card\bin\Release\betting with card.pdb
+C:\Users\user\Desktop\Internship\Testcodes\betting with card\betting with card\obj\Release\betting with card.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Internship\Testcodes\betting with card\betting with card\obj\Release\betting_with_card.Form1.resources
+C:\Users\user\Desktop\Internship\Testcodes\betting with card\betting with card\obj\Release\betting_with_card.Form3.resources
+C:\Users\user\Desktop\Internship\Testcodes\betting with card\betting with card\obj\Release\betting_with_card.Form4.resources
+C:\Users\user\Desktop\Internship\Testcodes\betting with card\betting with card\obj\Release\betting_with_card.Form5.resources
+C:\Users\user\Desktop\Internship\Testcodes\betting with card\betting with card\obj\Release\betting_with_card.Form6.resources
+C:\Users\user\Desktop\Internship\Testcodes\betting with card\betting with card\obj\Release\betting_with_card.Form7.resources
+C:\Users\user\Desktop\Internship\Testcodes\betting with card\betting with card\obj\Release\betting_with_card.Form8.resources
+C:\Users\user\Desktop\Internship\Testcodes\betting with card\betting with card\obj\Release\betting_with_card.Properties.Resources.resources
+C:\Users\user\Desktop\Internship\Testcodes\betting with card\betting with card\obj\Release\betting with card.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Internship\Testcodes\betting with card\betting with card\obj\Release\betting with card.exe
+C:\Users\user\Desktop\Internship\Testcodes\betting with card\betting with card\obj\Release\betting with card.pdb
